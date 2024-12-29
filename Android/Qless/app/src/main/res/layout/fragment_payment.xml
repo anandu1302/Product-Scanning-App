@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PaymentFragment">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:weightSum="3"
+           android:orientation="horizontal">
+
+           <TextView
+               android:text="Item"
+               android:layout_weight="1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:gravity="center"
+               android:textColor="@color/brown"
+               android:textSize="24dp" />
+
+           <TextView
+               android:text="Quatity"
+               android:layout_weight="1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:gravity="center"
+               android:textColor="@color/brown"
+               android:textSize="24dp" />
+           <TextView
+               android:text="Price"
+               android:layout_weight="1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:gravity="center"
+               android:textColor="@color/brown"
+               android:textSize="24dp" />
+
+       </LinearLayout>
+
+       <ListView
+           android:layout_width="match_parent"
+           android:layout_height="450dp"
+           android:id="@+id/paymentListView"
+           android:layout_alignParentTop="true"
+           android:layout_alignParentRight="true"
+           android:layout_alignParentEnd="true" />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal">
+
+           <TextView
+               android:text="Total Price: "
+               android:layout_marginLeft="20dp"
+               android:textSize="25dp"
+               android:textColor="@color/black"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="₹"
+               android:textSize="24dp"
+               android:textColor="@color/brown"/>
+
+           <TextView
+               android:text="Total Price:"
+               android:id="@+id/totalTextView"
+               android:textSize="24dp"
+               android:layout_marginLeft="10dp"
+               android:textColor="@color/brown"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+
+       </LinearLayout>
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Make Payment"
+           android:layout_marginTop="20dp"
+           android:gravity="center"
+           android:padding="10dp"
+           android:id="@+id/paymentButton"
+           android:layout_gravity="bottom" />
+   </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?php
+
+include("connection.php");
+
+$uid = $_GET['uid'];
+
+
+$sql = "SELECT * FROM history_tbl WHERE uid='$uid' order by id DESC";
+$result = mysqli_query($con,$sql);
+
+if(mysqli_num_rows($result) > 0){
+
+	while($row = mysqli_fetch_assoc($result)){
+
+       $data['data'][] = $row;
+		
+	}
+	echo json_encode($data);
+}
+
+else{
+	echo "failed";
+}
+
+?>

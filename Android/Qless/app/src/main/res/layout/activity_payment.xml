@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:padding="30dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".PaymentActivity">
+
+    <EditText
+        android:id="@+id/accountnoEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Account Number"
+        android:background="@color/grey"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/amountTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey"
+        android:layout_marginTop="50dp"
+        android:text="amount"
+        android:textSize="15dp"
+        android:textColor="@color/black"
+        android:padding="15dp"/>
+
+  <!--  <EditText
+        android:id="@+id/amountEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Amount"
+        android:background="@color/grey"
+        android:layout_marginTop="50dp"
+        android:padding="15dp"/>  -->
+
+    <Button
+        android:id="@+id/payButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Pay"
+        android:inputType="none"
+        android:padding="12dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"/>
+
+
+</LinearLayout>

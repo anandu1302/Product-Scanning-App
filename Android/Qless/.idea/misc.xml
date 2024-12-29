@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable-v24/ic_logout.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable-v24/ic_money.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable-v24/rect_points_bg.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable-v24/white_light_rect.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable/ic_add.xml" value="0.178" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable/ic_sub.xml" value="0.178" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable/rect_border.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/drawable/rect_verified.xml" value="0.1585" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_account_details.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_bill.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_ipactivity.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_pin.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_points.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_product_details.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/content_home.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/fragment_offer.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/fragment_payment.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/fragment_purchase.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_account.xml" value="0.2359375" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_cart_payment.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_history.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_ip_box.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_list_cart.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_offer_list.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_points.xml" value="0.2359375" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/layout/raw_prompt_delete.xml" value="0.25" />
+        <entry key="..\:/Projects/Qless/app/src/main/res/menu/home_menu.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable-v24/ic_back.xml" value="0.1455" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable-v24/rect_brown.xml" value="0.168" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable/boxrec.xml" value="0.17" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable/ic_back_white.xml" value="0.187" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable/rec_plane.xml" value="0.17" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable/rect_grey.xml" value="0.16" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/drawable/side_nav_bar.xml" value="0.17" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_bill.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_ipactivity.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_pin.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_product_details.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/content_home.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/fragment_cart.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/fragment_offer.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/fragment_payment.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/fragment_purchase.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/nav_header_home.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_cart_payment.xml" value="0.2359375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_history.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_ip_box.xml" value="0.2359375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_list_cart.xml" value="0.2359375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_offer_list.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/raw_prompt_delete.xml" value="0.2359375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/layout/toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/menu/home_menu.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Qfree/app/src/main/res/menu/options_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
